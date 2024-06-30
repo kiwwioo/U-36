@@ -10,7 +10,7 @@ Unity-35 Takımı
 * Mecit Menekşe - Developer
 
 ## Oyun ismi
-buraya oyun ismi gelicek
+buraya oyun ismi gelicek.
 
 ## Oyunun açıklaması
 buraya oyunun kısa bir özetini açıklayarak yazacağız.
